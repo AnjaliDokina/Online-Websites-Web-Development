@@ -1,0 +1,350 @@
+*{
+	margin: 0;
+	padding: 2px;
+	box-sizing: border-box;
+}
+.main_heading{
+	margin-top: 25px;
+	font-size: 30px;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(18,190,191,1) 100%);
+    -webkit-background-clip: text;
+	color: transparent;
+}
+.flipkart_navbar{
+	width: 100%;
+	height: 150px;
+	background-color: #f5b942;
+	display: flex;
+	position: absolute;
+	top: 20%;
+
+
+}
+.grocery_items img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.grocery_items p{
+	margin-left: 10px;
+}
+.flat-off h3{
+	width: 100px;
+	height: 100px;
+	padding: 30px;
+	padding-top: 13px;
+	margin-left: 30px;
+	border: white;
+	border-radius: 40%;
+	background-color: white;
+
+}
+.flat-off p{
+	margin-left: 30px;
+	margin-top: 5px;
+
+}
+.form_search-bar form{
+	position: absolute;
+	top: 55px;
+	left: 30%;
+	
+}
+.form_search-bar .search_bar{
+	width: 150%;
+}
+.jewellery-set img{
+	 width: 100px;
+	 height: 100px;
+	 border-radius: 50%;
+	 background-color: white;
+	 position: absolute;
+	 top: 10px;
+	 left: 65%;
+	}
+.jewellery-set p{
+	position: absolute;
+	top: 75%;
+	left: 66.5%;
+
+}
+.kurti_dress img{
+	width: 100px;
+	height: 100px;
+	border-radius: 40%;
+	 background-color: white;
+	 position: absolute;
+	 top: 10px;
+	 left: 77%;
+
+}
+.kurti_dress p{
+	position: absolute;
+	top: 75%;
+	left: 78%;
+
+}
+.furniture_set img{
+	width: 100px;
+	height: 100px;
+	border-radius: 40%;
+	 background-color: white;
+	 position: absolute;
+	 top: 10px;
+	 left: 90%;
+
+}
+.furniture_set p{
+	position: absolute;
+	top: 75%;
+	left: 92%;
+
+}
+.heading{
+	position: absolute;
+	top: 48%;
+	left: 40%;
+	margin-top: 4px;
+}
+
+.flipkart_navbar_1{
+	width: 100%;
+	height: 30%;
+	background-color: #3262a8;
+	display: flex;
+	position: absolute;
+	top: 50%;
+	margin-top: 3%;
+}
+.make-up-items img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 2%;
+
+	}
+.make-up-items p{
+	position: absolute;
+	top: 82%;
+	left: 5%;
+	color: white;
+}
+.lehenga_sets img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 30%;
+
+}
+	
+.lehenga_sets p{
+	position: absolute;
+	top: 82%;
+	left: 33%;
+	color: white;
+
+}
+.footwear_ladies img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 55%;
+
+} 
+.footwear_ladies p{
+	position: absolute;
+	top: 82%;
+	left: 58%;
+	color: white;
+}
+.kitchen_instruments img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 85%;
+}
+.kitchen_instruments p{
+	position: absolute;
+	top: 82%;
+	left: 89%;
+	color: white;
+
+}
+.heading1{
+	position: absolute;
+	top: 90%;
+	left: 43%;
+}
+.flipkart_navbar_2{
+	width: 100%;
+	height: 30%;
+	background-color: #687070;
+	display: flex;
+	position: absolute;
+	top: 80%;
+	margin-top: 8%;
+
+}
+.dry-fruites img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 3%;
+
+}
+.dry-fruites p{
+	position: absolute;
+	top: 82%;
+	left: 6%;
+	color: white;
+
+}
+.ice-cream img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 30%;
+
+}
+.ice-cream p{
+	position: absolute;
+	top: 82%;
+	left: 34%;
+	color: white;
+
+}
+.coffie img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 40%;
+	 position: absolute;
+	 top: 20px;
+	 left: 55%;
+
+}
+.coffie p{
+	position: absolute;
+	top: 82%;
+	left: 60%;
+	color: white;
+
+}
+.dairy-milk img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 85%;
+
+}
+.dairy-milk p{
+	position: absolute;
+	top: 82%;
+	left: 89%;
+	color: white;
+}
+.heading2{
+	position: absolute;
+	top: 132%;
+	left: 43%;
+	
+
+}
+
+.flipkart_navbar_3{
+	width: 100%;
+	height: 30%;
+	background-color: #11e6ed;
+	display: flex;
+	position: absolute;
+	top: 120%;
+	margin-top: 10%;
+
+}
+.burger img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 3%;
+
+}
+.burger p{
+	position: absolute;
+	top: 82%;
+	left: 6%;
+	color: black;
+}
+.pasta img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 30%;
+
+}
+.pasta p{
+	position: absolute;
+	top: 82%;
+	left: 34%;
+	color: black;
+
+}
+.noodles img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 40%;
+	 position: absolute;
+	 top: 20px;
+	 left: 55%;
+}
+.noodles p{
+	position: absolute;
+	top: 82%;
+	left: 59%;
+	color: black;
+}
+.biryani img{
+	width: 150px;
+	height: 120px;
+	 background-color: white;
+	 border-radius: 50%;
+	 position: absolute;
+	 top: 20px;
+	 left: 85%;
+}
+.biryani p{
+	position: absolute;
+	top: 82%;
+	left: 89%;
+	color: black;
+
+}
+
+

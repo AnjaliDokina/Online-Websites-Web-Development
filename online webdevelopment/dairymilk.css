@@ -1,0 +1,158 @@
+body{
+	
+	box-sizing: border-box;
+	background-color: #8c8888;
+}
+.choclets{
+	display: flex;
+}
+.fivestar-items img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 30px;
+	left: 10%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+	
+}
+.rupee{
+	position: absolute;
+	top: 35%;
+	left: 15%;
+}
+.fivestar-items button{
+	background-color: green;
+	position: absolute;
+	top: 42%;
+	left: 15%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+	
+}
+.perk-items img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 30px;
+	left: 40%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+
+}
+.rupee1{
+	position: absolute;
+	top: 35%;
+	left: 45%;
+
+}
+.perk-items button{
+	background-color: green;
+	position: absolute;
+	top: 42%;
+	left: 45%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+
+}
+.dairy_silk img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 30px;
+	left: 70%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+
+}
+.rupee2{
+	position: absolute;
+	top: 35%;
+	left: 75%;
+}
+.dairy_silk button{
+	background-color: green;
+	position: absolute;
+	top: 42%;
+	left: 75%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+
+}
+.kitkat img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 60%;
+	left: 10%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+}
+.rupee3{
+	position: absolute;
+	top: 90%;
+	left: 13%;
+
+}
+.kitkat button{
+	background-color: green;
+	position: absolute;
+	top: 98%;
+	left: 13%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+
+}
+.dark-fantacy img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 60%;
+	left: 40%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+}
+.rupee4{
+	position: absolute;
+	top: 90%;
+	left: 43%;
+}
+.dark-fantacy button{
+	background-color: green;
+	position: absolute;
+	top: 98%;
+	left: 43%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+}
+.milky-bar img{
+	width: 150px;
+	height: 180px;
+	position: absolute;
+	top: 60%;
+	left: 70%;
+	border-radius: 5%;
+	box-shadow: 0px 0px 3px 3px white;
+}
+.rupee5{
+	position: absolute;
+	top: 90%;
+	left: 74%;
+}
+.milky-bar button{
+	background-color: green;
+	position: absolute;
+	top: 98%;
+	left: 74%;
+	border: none;
+	border-radius: 50%;
+	color: white;
+
+}
+
+
